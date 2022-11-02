@@ -1,0 +1,8 @@
+## Interface: 100000
+## Title: Secondary stats distribution infos
+## Notes: Type /sdp to get the actual weight of your toon stats
+## Author: Fatrog
+## Version: 1.0.1
+
+StatsDistrib.lua
+local/localization.lua
